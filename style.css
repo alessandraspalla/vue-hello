@@ -9,9 +9,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .titolo {
     color: cornflowerblue;
     font-size: 3rem;
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    width: 20%;
 }
